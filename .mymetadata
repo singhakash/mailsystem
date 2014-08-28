@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="mailsystem"
+  id="myeclipse.1376837813234"
+  context-root="/mailsystem"
+  j2ee-spec="5.0"
+  archive="mailsystem.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
